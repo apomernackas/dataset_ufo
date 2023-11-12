@@ -1,2 +1,3 @@
-# dataset_ufo
-BAIS3250: ufo data for end of week 12 assignment 
+# dataset_ufo/code
+
+Web scraping code used to create the dataset.
